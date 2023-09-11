@@ -6,8 +6,8 @@ Welcome to the central hub for setting up your development environment! Here, yo
 
 * Installing Git:
   * [Linux and Mac Installation](./git/linux_and_mac/git_setup.md)
-  * [Windows Installation](git/windows/git_setup.md)
-* [Installing VSCode as your IDE](IDE/VSCode.md)
+  * [Windows Installation](./git/windows/git_setup.md)
+* [Installing VSCode as your IDE](./IDE/VSCode.md)
 * Installing Python:
-  * [Linux and Mac Installation](python/linux_and_mac/installing_python.md)
-  * [Windows Installation](python/windows/installing_Python.md)
+  * [Linux and Mac Installation](./python/linux_and_mac/installing_python.md)
+  * [Windows Installation](./python/windows/installing_Python.md)
