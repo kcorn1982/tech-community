@@ -18,4 +18,4 @@ We're just starting out but hope that this will grow into a vibrant supportive c
 
 ## Contents
 
-* [Setting Up Your Environement](./00_setting_up_your_environment/README.md)
+* [Setting Up Your Environement](00_setting_up_your_environment/README.md)
