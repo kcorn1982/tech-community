@@ -19,3 +19,4 @@ We're just starting out but hope that this will grow into a vibrant supportive c
 ## Contents
 
 * [Setting Up Your Environment](00_setting_up_your_environment/README.md)
+* [Git basics](./01_git_and_GitHub/README.md)
